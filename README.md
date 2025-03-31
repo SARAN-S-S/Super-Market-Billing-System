@@ -31,6 +31,6 @@ The Supermarket Billing and Management System is a console-based application dev
 
 💾 File Handling :
 
-🔹Data Persistence – Product details are stored in a file (database.txt) to retain inventory information even after the program closes.
+                🔹Data Persistence – Product details are stored in a file (database.txt) to retain inventory information even after the program closes.
 
-🔹Efficient Management – The system reads and writes product data for inventory management.
+                🔹Efficient Management – The system reads and writes product data for inventory management.
