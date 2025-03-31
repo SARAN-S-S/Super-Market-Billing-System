@@ -39,6 +39,8 @@ The Supermarket Billing System allows an admin to manage products and a buyer to
 
 🔹🛠 C++ - Core programming language.
 
+🔹🧩 OOP - Used for structuring the code efficiently.
+
 🔹📁 File Handling - Stores product data in text files.
 
 🔹🔒 Basic Authentication - Admin login system.
