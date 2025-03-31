@@ -29,7 +29,7 @@ The Supermarket Billing System allows an admin to manage products and a buyer to
 
 🔹Bill Calculation – Automatically calculates the total amount based on selected products.
 
-📁 ### File Handling :
+📁 File Handling :
 
 🔹Data Persistence – Product details are stored in a file (database.txt) to retain inventory information even after the program closes.
 
