@@ -34,3 +34,11 @@ The Supermarket Billing System allows an admin to manage products and a buyer to
 🔹Data Persistence – Product details are stored in a file (database.txt) to retain inventory information even after the program closes.
 
 🔹Efficient Management – The system reads and writes product data for inventory management.
+
+# # Technologies Used :
+
+🔹🛠 C++ - Core programming language.
+
+🔹📁 File Handling - Stores product data in text files.
+
+🔹🔒 Basic Authentication - Admin login system.
