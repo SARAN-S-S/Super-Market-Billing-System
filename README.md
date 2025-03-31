@@ -35,7 +35,7 @@ The Supermarket Billing System allows an admin to manage products and a buyer to
 
 🔹Efficient Management – The system reads and writes product data for inventory management.
 
-# # # Technologies Used :
+### Technologies Used :
 
 🔹🛠 C++ - Core programming language.
 
