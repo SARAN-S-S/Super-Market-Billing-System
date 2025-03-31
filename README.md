@@ -1,4 +1,5 @@
 # Supermarket Billing and Management System 
+
         The Supermarket Billing and Management System is a console-based application developed in C++ with file handling for data storage. This project was chosen because it provides a hands-on approach to learning key programming concepts, including Object-Oriented Programming (OOP), file handling, and user interactions. It implements real-world functionalities like product management, billing, and administrative control.
 
 🔹 Why This Project?
