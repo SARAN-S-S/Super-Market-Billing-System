@@ -1,35 +1,30 @@
-Supermarket Billing System
+Supermarket Billing and Management System
+The Supermarket Billing and Management System is a console-based application developed in C++ with file handling for data storage. This project was chosen because it provides a hands-on approach to learning key programming concepts, including Object-Oriented Programming (OOP), file handling, and user interactions. It implements real-world functionalities like product management, billing, and administrative control.
 
-Why This Project?
+🔹 Why This Project?
+This project is a basic yet essential system that helps in understanding the fundamentals of C++ programming while also incorporating real-world applications. It serves as a foundation for learning and can be expanded with more functionalities in the future.
 
-The Supermarket Billing System is a basic yet essential project that helps in understanding key concepts of C++ programming, including file handling, object-oriented programming (OOP), and user interactions. This project was chosen because it provides a hands-on approach to learning practical programming skills while also implementing real-world functionalities like product management, billing, and administrative control.
+📌 Project Overview
+The Supermarket Billing System allows an admin to manage products and a buyer to purchase items. The system maintains product details using file handling, ensuring that the data is saved even after the program exits.
 
-Project Overview
+⚡ Functionalities
+🛠 Admin Functionalities
+Add Product – Add new products with details like name, product ID, price, and quantity.
 
-This project is a console-based application developed in C++ with file handling for data storage. It simulates a simple supermarket billing system where an admin can manage products and a buyer can view and purchase items.
+Edit Product – Update details of an existing product.
 
-Functionalities
+Remove Product – Delete a product from the inventory.
 
-1. Admin Functionalities
+View Products – Display all available products with their details.
 
-Add Product: Admin can add new products with details like name, product ID, price, and quantity.
+🛒 Buyer Functionalities
+View Products – See all available products and their prices.
 
-Edit Product: Update details of an existing product.
+Purchase Products – Select products and specify the quantity for purchase.
 
-Remove Product: Delete a product from the inventory.
+Bill Calculation – Automatically calculates the total amount based on selected products.
 
-View Products: Display all available products with their details.
+💾 File Handling
+Data Persistence – Product details are stored in a file (database.txt) to retain inventory information even after the program closes.
 
-2. Buyer Functionalities
-
-View Products: Buyers can see all the available products and their prices.
-
-Purchase Products: Select products and quantities to generate a bill.
-
-Bill Calculation: Automatically calculates the total amount, including quantity-based pricing.
-
-3. File Handling
-
-All product details are stored in a file (database.txt), allowing data persistence even after the program closes.
-
-The system reads and writes product data from this file for inventory management.
+Efficient Management – The system reads and writes product data for inventory management.
